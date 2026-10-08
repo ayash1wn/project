@@ -6,3 +6,6 @@
 - Requirements
 - Use Case
 - Diagrams
+
+## GitHub Branch
+Бұл өзгеріс feature branch ішінде жасалды.
